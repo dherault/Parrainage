@@ -1,1 +1,7 @@
-You'll need some advanced "Arts et Métiers Engineering School" knowledge before you understand what it does.
+Parrainage is a rails 4 App for managing people in a way specific to my engineering school union.
+
+It can list a first group of people to learn their names, and allows a second group of people to be registred for events and vote for people from the first group. Weird hum?
+
+It ran on a t2.micro in production for a year for 150 users. It crashed on the first votenight.
+
+MIT licence.
